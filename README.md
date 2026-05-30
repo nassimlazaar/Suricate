@@ -4,41 +4,43 @@
 
 # 🛡️ Suricate : Votre Sentinelle Contre les Indésirables
 
-**Suricate** est une application Android intelligente conçue pour protéger votre tranquillité. Contrairement aux bloqueurs classiques, Suricate agit comme une sentinelle : elle identifie, filtre et met en sourdine les appels malveillants tout en préservant l'intégrité de votre journal d'appels.
+Suricate est une application Android intelligente conçue pour protéger votre tranquillité. Contrairement aux bloqueurs classiques, Suricate agit comme une sentinelle : elle identifie, filtre et rejette les appels malveillants tout en préservant l'intégrité de votre journal d'appels.
 
----
+J'ai créé Suricate pour rendre nos téléphones à nouveau silencieux face au démarchage abusif, tout en garantissant une application 100% respectueuse de votre vie privée.
 
 ## ✨ La Philosophie Suricate
 
-La plupart des applications de blocage suppriment les appels sans vous prévenir. **Suricate ne supprime rien.** Les appels détectés comme indésirables sont simplement **mis en sourdine**. Ils restent visibles dans votre journal d'appels système et dans l'application, vous gardez ainsi le contrôle total.
+La plupart des applications de blocage suppriment les appels sans vous prévenir. Suricate privilégie la transparence. Les appels détectés comme indésirables sont rejetés par le système pour ne pas vous déranger, mais ils **restent visibles** dans votre journal d'appels système et dans l'historique de l'application. Vous gardez ainsi le contrôle total et ne ratez aucune information.
 
-### 🚀 Deux niveaux de protection :
+## 🚀 Deux niveaux de protection
 
-| Protection | Fonctionnement | Inclus |
-| :--- | :--- | :--- |
-| **Standard** | Utilise les préfixes officiels (ARCEP) | ✅ Gratuit |
-| **Elite** | Base communautaire en temps réel + IA | ⭐ Premium |
-
----
+| Fonctionnalité | Standard (Gratuit) | Élite (Premium) |
+| :--- | :---: | :---: |
+| **Bouclier Anti-Démarchage** | 12 500 000 de numéros | **21 000 000 de numéros** |
+| **Mises à jour** | Toutes les 24h | ⚡ **Temps Réel (Push)** |
+| **Protection SMS** (Phishing) | ❌ | ✅ |
+| **Filtrage International** | ❌ | ✅ |
+| **Mode "Cercle Restreint"** | ❌ | ✅ |
+| **Base communautaire** | Standard | 🚀 **Prioritaire** |
+| **Soutien au développement** | ❌ | ❤️ |
 
 ## 🔒 Sécurité & Transparence
 
-Ce dépôt GitHub est la vitrine publique de l'application. Pour des raisons de sécurité et de propriété intellectuelle, le code source de l'application est hébergé sur un serveur privé. 
+Ce dépôt GitHub est la vitrine publique de l'application. Pour des raisons de sécurité et de protection de l'infrastructure, le code source de l'application est hébergé sur un environnement privé.
 
-**Ici, vous trouverez :**
-* ⚖️ [Les Conditions Générales d'Utilisation](./LEGAL/CGU.md)
-* 👤 [La Politique de Confidentialité](./LEGAL/PRIVACY.md) (Respect strict du RGPD)
-* 📑 [Les Mentions Légales](./LEGAL/MENTIONS.md)
-
----
+Ici, vous trouverez les documents essentiels :
+*   ⚖️ Les Conditions Générales d'Utilisation
+*   👤 La Politique de Confidentialité (Respect strict du RGPD)
+*   📑 Les Mentions Légales
 
 ## 🛠️ Support & Amélioration
 
-Vous utilisez Suricate et vous souhaitez nous aider à rendre le réseau plus sûr ? Ce dépôt est votre espace de communication avec l'équipe.
+Vous utilisez Suricate et vous souhaitez nous aider à rendre le réseau plus sûr ? Ce dépôt est votre espace de communication.
 
-> **Un problème ? Une idée ?** > Cliquez sur l'onglet **[Issues](https://github.com/nassimlazaar/suricate/issues)** en haut de cette page pour :
-> * 💡 Proposer une **Suggestion d'amélioration** pour l'offre Elite.
-> * 🛡️ Signaler une **Erreur de filtrage** (Faux positif).
+**Un problème ? Une idée ?** Cliquez sur l'onglet **Issues** en haut de cette page pour :
+*   💡 Proposer une **suggestion d'amélioration** pour l'offre Élite.
+*   🛡️ Signaler une **erreur de filtrage** (Faux positif).
+*   💬 Participer aux échanges sur le futur de l'application via les **Discussions**.
 
 ---
-*Suricate : Vigilance. Protection. Sérénité.*
+**Suricate : Vigilance. Protection. Sérénité.**
