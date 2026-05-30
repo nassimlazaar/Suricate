@@ -1,5 +1,5 @@
 ---
-name: Signalement d'erreur de filtrage
+name: "\U0001F50D Signalement d'erreur de filtrage"
 about: Utilisez ce formulaire si un appel ou un SMS légitime a été filtré par erreur.
 title: ''
 labels: ''
