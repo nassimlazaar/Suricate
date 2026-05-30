@@ -1,7 +1,6 @@
 ---
 name: "\U0001F4A1 Suggestion d'amélioration"
-about: Describe Proposez une nouvelle fonctionnalité ou une idée pour faire évoluer
-  Suricate.this issue template's purpose here.
+about: Proposez une nouvelle fonctionnalité ou une idée pour faire évoluer Suricate.
 title: ''
 labels: ''
 assignees: ''
