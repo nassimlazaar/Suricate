@@ -36,7 +36,7 @@ Ce dépôt GitHub est la vitrine publique de l'application. Pour des raisons de 
 
 Vous utilisez Suricate et vous souhaitez nous aider à rendre le réseau plus sûr ? Ce dépôt est votre espace de communication avec l'équipe.
 
-> **Un problème ? Une idée ?** > Cliquez sur l'onglet **[Issues](https://github.com/VOTRE_PSEUDO/suricate/issues)** en haut de cette page pour :
+> **Un problème ? Une idée ?** > Cliquez sur l'onglet **[Issues](https://github.com/nassimlazaar/suricate/issues)** en haut de cette page pour :
 > * 💡 Proposer une **Suggestion d'amélioration** pour l'offre Elite.
 > * 🛡️ Signaler une **Erreur de filtrage** (Faux positif).
 
