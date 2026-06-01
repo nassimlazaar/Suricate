@@ -37,8 +37,8 @@ Ici, vous trouverez les documents essentiels :
 
 Vous utilisez Suricate et vous souhaitez nous aider à rendre le réseau plus sûr ? Ce dépôt est votre espace de communication.
 
-**Un problème ? Une idée ?** Cliquez sur l'onglet **Issues** en haut de cette page pour :
-*   💡 Proposer une **suggestion d'amélioration** pour l'offre Élite.
+**Un problème ? Une idée ?** Cliquez sur l'onglet **[Issues](https://github.com/nassimlazaar/Suricate-code/issues)** en haut de cette page pour :
+*   💡 Proposer une **suggestion d'amélioration**.
 *   🛡️ Signaler une **erreur de filtrage** (Faux positif).
 *   💬 Participer aux échanges sur le futur de l'application via les **Discussions**.
 
