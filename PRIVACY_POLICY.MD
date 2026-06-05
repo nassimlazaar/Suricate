@@ -67,4 +67,4 @@ Cette politique de confidentialité peut être amenée à évoluer. En cas de mo
 
 ## 7. Contact
 
-Pour toute question concernant cette politique de confidentialité ou pour signaler un numéro légitime bloqué par erreur, vous pouvez ouvrir une "Issue" directement sur ce dépôt GitHub ou contacter le développeur à l'adresse suivante : **[VOTRE_ADRESSE_EMAIL_ICI]**.
+Pour toute question concernant cette politique de confidentialité ou pour signaler un numéro légitime bloqué par erreur, vous pouvez ouvrir une "Issue" directement sur ce dépôt GitHub ou contacter le développeur à l'adresse suivante : **suricate.support@gmail.com**.
