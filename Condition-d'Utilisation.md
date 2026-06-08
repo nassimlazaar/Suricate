@@ -1,6 +1,6 @@
 # Conditions Générales d'Utilisation (CGU) - Suricate
 
-**Dernière mise à jour : 18 février 2026**
+**Dernière mise à jour : JUIN 2026**
 
 Bienvenue sur **Suricate**. En installant et en utilisant notre application, vous acceptez sans réserve les présentes Conditions Générales d'Utilisation.
 
