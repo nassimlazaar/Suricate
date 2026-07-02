@@ -16,7 +16,7 @@ La plupart des applications de blocage suppriment les appels sans vous prévenir
 
 | Fonctionnalité | Standard (Gratuit) | Élite (Premium) |
 | :--- | :---: | :---: |
-| **Bouclier Anti-Démarchage** | 12 500 000 de numéros | **21 000 000 de numéros** |
+| **Bouclier Anti-Démarchage** | 13 000 000 de numéros | **167 010 000 de numéros** |
 | **Mises à jour** | Toutes les 3 semaines | ⚡ **Temps Réel (Push)** |
 | **Protection SMS** (Phishing) | ❌ | ✅ |
 | **Filtrage International** | ❌ | ✅ |
