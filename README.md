@@ -48,5 +48,7 @@ Suricate est une aventure indépendante et sans publicité. Si l'application vou
 
 [![Faites un don avec PayPal](https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=66ZHSS4XFF98S)
 
+[![Télécharger sur Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nassimlazaar.suricate&pcampaignid=web_share)
+
 ---
 **Suricate : Vigilance. Protection. Sérénité.**
