@@ -2,7 +2,7 @@
   <img src="./assets/suricate.png" alt="Logo Suricate" width="200">
 </p>
 
-# 🛡️ Suricate : Votre Sentinelle Contre les Indésirables
+# 🛡️ Suricate : Votre Sentinelle Contre les appels indésirables
 
 Suricate est une application Android intelligente conçue pour protéger votre tranquillité. Contrairement aux bloqueurs classiques, Suricate agit comme une sentinelle : elle identifie, filtre et rejette les appels malveillants tout en préservant l'intégrité de votre journal d'appels.
 
